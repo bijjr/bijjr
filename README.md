@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leo
 - 👀 I’m interested in building beautifully designed products and protocols
 - 🌱 I’m currently learning Front-end, Back-end, and Web3 technologies 
-- 💞️ I’m looking to collaborate on any open-source projects 
+- 💞️ I’m looking to collaborate on any open-source projects and protocols
 - 📫 How to reach me @leohavemercy
 
 <!---

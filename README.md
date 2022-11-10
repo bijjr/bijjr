@@ -1,8 +1,6 @@
 - 👋 Hi, I’m BJ!
-- 👀 I’m interested in building beautifully designed products and protocols
-- 🌱 I’m currently learning Front-end, Back-end, and Web3 technologies 
-- 💞️ I’m looking to collaborate on any open-source projects and protocols
-- 📫 How to reach me @leohavemercy
+- 👀 Interested in building designed products
+- 🌱 Currently learning Front-end, Back-end, and other few other things..
 
 <!---
 leonotnice/leonotnice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
